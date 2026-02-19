@@ -16,4 +16,11 @@ print("o lucro foi de", 1000-700)
 
 #números com casa decimal é um FLOAT (números quebrados)
 
-teve_lucro 
+teve_lucro=true
+margem_lucro
+print("a margem de lucro foi de", margem_lucro)
+#porcentagem 10% no python é 0.1
+
+email
+print("email@gmail.com")
+#round é uma função de arredondar
