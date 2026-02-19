@@ -16,4 +16,4 @@ print("o lucro foi de", 1000-700)
 
 #números com casa decimal é um FLOAT (números quebrados)
 
-teve_lucro true 
+teve_lucro 
