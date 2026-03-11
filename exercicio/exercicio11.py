@@ -1,0 +1,11 @@
+OBG= int(input("digite um numero:"))
+print("tabuada do número {}: {}x1 = {}".format(OBG,OBG, OBG*1))
+print("tabuada do número {}: {}x2 = {}".format(OBG,OBG, OBG*2))
+print("tabuada do número {}: {}x3 = {}".format(OBG,OBG, OBG*3))
+print("tabuada do número {}: {}x4 = {}".format(OBG,OBG, OBG*4))
+print("tabuada do número {}: {}x5 = {}".format(OBG,OBG, OBG*5))                         #tabuada meudeus :(
+print("tabuada do número {}: {}x6 = {}".format(OBG,OBG, OBG*6))
+print("tabuada do número {}: {}x7 = {}".format(OBG,OBG, OBG*7))
+print("tabuada do número {}: {}x8 = {}".format(OBG,OBG, OBG*8))
+print("tabuada do número {}: {}x9 = {}".format(OBG,OBG, OBG*9))
+print("tabuada do número {}: {}x10 = {}".format(OBG,OBG, OBG*10))
