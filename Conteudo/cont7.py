@@ -10,4 +10,4 @@ print(fr.count("e"))                       #procura o caractere especifico na va
 print(fr.count("e", 1,19))                 #procura o caractere num intervalo específico
 print(fr.find("desenvolvimento"))          #ver onde começa
 print(fr.find("android"))                  #-1 pq n tem issae
-print("sistemas"in(fr))   
+print("sistemas"in(fr))                    #verifica se aquele conjunto string ta presente na variavel
