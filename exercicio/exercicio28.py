@@ -1,7 +1,7 @@
 fr = str(input('Digite uma frase: ')).strip().upper()
 
-print(f'A letra A aparece {fr.count("A")} vezes na frase.')
+print('A letra A aparece {} vezes na frase.'.format(fr.count("A")))
 
-print(f'A primeira letra A apareceu na posição {fr.find("A") + 1}')
+print('A primeira letra A apareceu na posição {}'.format(fr.find("A") + 1))
 
-print(f'A última letra A apareceu na posição {fr.rfind("A") + 1}')
+print('A última letra A apareceu na posição {}'.format(fr.rfind("A") + 1))
