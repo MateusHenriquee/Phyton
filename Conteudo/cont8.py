@@ -1,0 +1,2 @@
+# Condições
+# Estrutura sequencial: Os comandos condicionais são executados de cima para baixo em um bloco de códigos. Até esse momento estávamos trabalhando nessa lógica, porém nas estruturas condicionais temos duas possibilidades de caminhos. Cada caminho terá um bloco de comando executados se ele for escolhido. Em programação utilizamos o comando se, se alguma condição verdadeira executa um bloco de códigos, e podemos utilizar um bloco se não para executar quando a condição for falsa.
