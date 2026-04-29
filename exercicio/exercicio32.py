@@ -1,6 +1,5 @@
-from random import randint 
-
-escolha = int(input("escolha um numero aleatorio: "))
-
-if escolha >= (0, 2 ,4 ,6 , 8,):
-    print("o numero {} é par".format(escolha)) 
+numero = int(input("Informe um número inteiro"))
+if numero%2 == 0:
+    print("o seu número é par")
+else:
+    print("seu número é impar")
