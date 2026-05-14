@@ -1,11 +1,8 @@
-nmr= int(input("digite um numero: "))
-nmrl= int(input("digite outro numero: "))
-
-if nmr > nmrl:
-    print("o primeiro valor é maior: {}".format(nmr))
-
-elif nmr < nmrl:
-    print("o segundo valor é maior: {}".format(nmrl))
-    
+n1= int(input("Primeiro número "))
+n2= int(input("Segundo número "))
+if n1 > n2:
+    print("O primeiro valor é maior")
+elif n1 < n2:
+    print("O segundo valor é maior")
 else:
-    print("os valores sao")
+    print("os valores são iguais")
