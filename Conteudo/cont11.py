@@ -1,0 +1,3 @@
+Estrutura de repetição While
+
+Esta estrutura é utilizada para quando não sabemos o número de repetições devem ser executadas. Nessa estrutura repetimos o laço enquanto uma condição é atendida, quando a condição imposta não é mais atendida o laço para. A sintaxe desse laço é a seguinte: while + condição:. Dentro da estrutura while podemos utilizar diferentes condicionais para que o código siga caminhos diferentes ao longo de sua execução.
