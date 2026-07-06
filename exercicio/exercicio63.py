@@ -1,14 +1,17 @@
-n = int(input("Digite um número para calcular seu fatorial: "))
+# Entrada de dados
+primeiro = int(input("Digite o primeiro termo da PA: "))
+razao = int(input("Digite a razão da PA: "))
 
-c = n
-f = 1
+# Inicialização de variáveis
+termo = primeiro
+cont = 1
 
-print(f"Calculando {n}! = ", end="")
+print("Os 10 primeiros termos da PA são:")
 
-while c > 0:
-    print(f"{c}", end="")
-    print(" x " if c > 1 else " = ", end="")
-    f *= c
-    c -= 1
+# Estrutura de repetição while
+while cont <= 10:
+    print(f"{termo} ", end="-> ")
+    termo += razao
+    cont += 1
 
-print(f"{f}")
+print("FIM")
