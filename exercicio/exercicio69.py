@@ -1,7 +1,6 @@
 while True:
     n = int(input("Quer ver a tabuada de qual valor? "))
     
-    # Condição de parada: número negativo
     if n < 0:
         break
         
