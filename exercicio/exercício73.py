@@ -1,6 +1,6 @@
 valor = int(input("Qual será o valor a ser sacado? R$ "))
 
-cedulas = [50, 20, 10, 1]
+cedulas = [100, 50, 5, 2]
 
 print("\nCédulas entregues:")
 
