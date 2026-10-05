@@ -45,3 +45,6 @@
 #         print(f'{p[0]} é menor de idade')
 #         tomen += 1
 # print(f'Temos {tomai} maiores de idade e {tomen} menores de idade')
+
+# Dicionários
+# Diferentes das tuplas e das listas os dicionários podem utilizar palavras em vez de itens números para identificar os itens de uma lista. Os dicionários são identificados por {}. Por exemplo podemos criar dados = {nome : 'pedro', idade : 25} o nome é o primeiro índice e a idade é o segundo. Para mostrar esses dados poderia fazer da seguinte forma, print(dados['nome']), isso geraria o resultado pedro. Se trocasse nome por idade o resultado seria 25.
